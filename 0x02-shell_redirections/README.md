@@ -5,3 +5,5 @@
 2-hellofile= script that displays the content of the /etc/passwd file.
 
 3-twofiles= script that displays the content of /etc/passwd and /etc/hosts.
+
+4-lastlines= script that displays the last 10 lines of /etc/passwd.
